@@ -73,7 +73,7 @@ I am Vishal Kumar Singh, currently pursuing my B.Tech degree in Computer Science
 </p>
 
 
-![snake gif](https://github.com/ThakurSahab0/vishalsingh200/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/vishalsingh200/vishalsingh200/blob/output/github-contribution-grid-snake.gif)
 
 
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
