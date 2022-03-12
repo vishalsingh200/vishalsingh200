@@ -74,10 +74,6 @@ I am Vishal Kumar Singh, currently pursuing my B.Tech degree in Computer Science
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh200&theme=tokyonight" />
 </p>
 
-<img align="left" width="15%" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img align="left" width="15%" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-<img align="left" width="18%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<br>
 
 
 ![snake gif](https://github.com/vishalsingh200/vishalsingh200/blob/output/github-contribution-grid-snake.gif)
@@ -87,3 +83,8 @@ I am Vishal Kumar Singh, currently pursuing my B.Tech degree in Computer Science
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
+
+
+<p align="center">
+<img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
+</p>
