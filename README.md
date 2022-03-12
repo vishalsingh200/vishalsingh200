@@ -74,6 +74,11 @@ I am Vishal Kumar Singh, currently pursuing my B.Tech degree in Computer Science
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh200&theme=tokyonight" />
 </p>
 
+<img align="left" width="15%" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img align="left" width="15%" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+<img align="left" width="18%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<br>
+
 
 ![snake gif](https://github.com/vishalsingh200/vishalsingh200/blob/output/github-contribution-grid-snake.gif)
 
