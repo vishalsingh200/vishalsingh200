@@ -34,6 +34,8 @@ I am Vishal Kumar Singh, currently pursuing my B.Tech degree in Computer Science
 
 [![Vishal Singh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vishalsingh200&theme=xcode)](https://github.com/vishalsingh200)
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalsingh200" alt="vishalsingh200" /></a> </p>
+
 <img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
 
 ## ⚡ Technologies
