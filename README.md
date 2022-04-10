@@ -27,7 +27,7 @@ I am Vishal Kumar Singh, currently pursuing my B.Tech degree in Computer Science
 
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singhvishal0847@gmail.com)](mailto:singhvishal0847@gmail.com)
-<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-jadon-280b5721a/)](https://www.linkedin.com/in/varun-jadon-280b5721a/)
+<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/vishal-singh-4a1442237/)](https://www.linkedin.com/in/vishal-singh-4a1442237/)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/varunjadon/)
 -->
 
