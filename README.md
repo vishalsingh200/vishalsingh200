@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node JS.<br>
 - 👯 I’m looking to collaborate on gitHub.<br>
 - 📫 How to reach me  singhvishal0847@gmail.com<br>
-- ⚡ Fun fact **I am Funny**<br>
+- ⚡ Fun fact I am Funny<br>
 <br>
 <br>
  <br>
