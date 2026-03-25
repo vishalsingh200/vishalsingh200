@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repo first
+      # Checkout the repo first (fixes git error)
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
@@ -25,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Deploy to GitHub Pages (use latest version)
+      # Deploy to GitHub Pages (updated to v4)
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
