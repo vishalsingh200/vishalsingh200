@@ -74,7 +74,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalsingh200&theme=flat&margin-w=10&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalsingh200&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
