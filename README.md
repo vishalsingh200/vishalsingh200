@@ -92,4 +92,12 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  🦈 Pull Shark &nbsp;&nbsp; 😄 YOLO
+</p>
+
+---
+
 <h3 align="center">✨ Show some ❤️ by starring my repositories! ✨</h3>
