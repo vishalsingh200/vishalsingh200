@@ -89,29 +89,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalsingh200&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
----
-
-## 📈 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh200&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=c9d1d9&dates=8b949e" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh200&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&langs_count=8" />
-</p>
-
-
 ## ☕ Support Me
 
 <p align="center">
