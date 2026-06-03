@@ -74,19 +74,53 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalsingh200&show_icons=true&theme=tokyonight" />
+
+| Badge | Name | Description | Status |
+|:-----:|------|-------------|--------|
+| 🦈 | **Pull Shark** | Opened pull requests that got merged | ×2 Unlocked |
+| 😄 | **YOLO** | Merged a PR without a review | Unlocked |
+| 🧊 | **Arctic Code Vault** | Contributed to the 2020 GitHub Archive | Unlocked |
+| ⚡ | **Quickdraw** | Closed an issue or PR within 5 minutes of opening | Unlocked |
+| 🧑‍💻 | **Open Sourcerer** | PRs merged in multiple public repositories | Unlocked |
+| 🦉 | **Starstruck** | Created a repo with 16+ stars | 🔄 In Progress |
+| 🔮 | **Galaxy Brain** | Answer marked as helpful in Discussions | 🔄 In Progress |
+
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishalsingh200&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh200&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=c9d1d9&dates=8b949e" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh200&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&langs_count=8" />
+</p>
+
 
 ## ☕ Support Me
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/vishalsingh0847">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://ko-fi.com/vishalsingh0847">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50"/>
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Ko-fi"/>
   </a>
 </p>
 
